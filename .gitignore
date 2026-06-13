@@ -1,0 +1,8 @@
+.env
+.venv/
+vector_db/
+downloades/
+__pycache__/
+*.pyc
+.gemini/
+*.log
